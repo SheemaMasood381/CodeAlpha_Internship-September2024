@@ -16,7 +16,7 @@ This project involved building a predictive model to forecast sales based on adv
 - **Top Model:** Random Forest achieved a Test Accuracy of 98.29% with a Test MAE of 0.596875.
 - **Web Application:** Built using Flask for user-friendly interaction.
 
-🔗 [View GitHub Repository](https://lnkd.in/dUWzkvfx)
+🔗 [View GitHub Repository](https://github.com/SheemaMasood381/CodeAlpha_Internship-September2024/tree/main/Task%201%20Sales%20Prediction%20Using%20Python)
 
 ---
 
@@ -32,9 +32,9 @@ Developed a web application that predicts the value of a car based on multiple i
 - **Bootstrap:** For responsive design.
 
 ### Demo
-📹 Check out the [Demo Video](#).
+📹 Check out the [Demo Video](https://www.linkedin.com/posts/sheema-masood_machinelearning-webdevelopment-flask-activity-7239778276234194944-zg44?utm_source=share&utm_medium=member_desktop).
 
-🔗 [View GitHub Repository](https://lnkd.in/daSgu_fp)
+🔗 [View GitHub Repository](https://github.com/SheemaMasood381/CodeAlpha_Internship-September2024/tree/main/Task%202%20Car%20Price%20Estimator)
 
 ---
 
@@ -48,7 +48,7 @@ Built a machine learning model to classify Iris flower species using the famous 
 - **Interactive Testing:** Developed an interface to test the model with new inputs.
 - **Data Visualization:** Employed Plotly for 3D visualizations.
 
-🔗 [View GitHub Repository](https://lnkd.in/d8GYqAEE)
+🔗 [View GitHub Repository](https://github.com/SheemaMasood381/CodeAlpha_Internship-September2024/tree/main/Task%203%20Iris%20Flower%20Cassification)
 
 ---
 
